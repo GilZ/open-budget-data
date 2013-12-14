@@ -1,2 +1,4 @@
 #ignore folders everywhere
 .idea
+
+**.rtf
